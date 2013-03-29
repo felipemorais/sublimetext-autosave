@@ -1,3 +1,4 @@
 {
-    "syntaxAutoSave": ["html", "css", "javascrit", "json"]
+	"syntaxAutoSave": ["html", "css", "javascrit", "json"],
+	"saveTwice" : false
 }
